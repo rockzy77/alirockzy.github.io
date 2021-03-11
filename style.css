@@ -300,7 +300,7 @@ nav li a:hover{
 }
 
 .box .percent svg circle:nth-child(2){
-    stroke-dashoffset: calc(440 - (440 * 98) / 100);
+    stroke-dashoffset: calc(440 - (440 * 90) / 100);
     stroke: red;
 }
 
@@ -371,7 +371,7 @@ nav li a:hover{
 }
 
 .box2 .percent2 svg circle:nth-child(2){
-    stroke-dashoffset: calc(440 - (440 * 95) / 100);
+    stroke-dashoffset: calc(440 - (440 * 85) / 100);
     stroke: green;
 }
 
@@ -443,7 +443,7 @@ nav li a:hover{
 }
 
 .box3 .percent3 svg circle:nth-child(2){
-    stroke-dashoffset: calc(440 - (440 * 78) / 100);
+    stroke-dashoffset: calc(440 - (440 * 42) / 100);
     stroke: yellow;
 }
 
@@ -515,7 +515,7 @@ nav li a:hover{
 }
 
 .box4 .percent4 svg circle:nth-child(2){
-    stroke-dashoffset: calc(440 - (440 * 60) / 100);
+    stroke-dashoffset: calc(440 - (440 * 45) / 100);
     stroke: brown;
 }
 
@@ -586,7 +586,7 @@ nav li a:hover{
 }
 
 .box5 .percent5 svg circle:nth-child(2){
-    stroke-dashoffset: calc(440 - (440 * 70) / 100);
+    stroke-dashoffset: calc(440 - (440 * 50) / 100);
     stroke: orange;
 }
 
@@ -657,7 +657,7 @@ nav li a:hover{
 }
 
 .box6 .percent6 svg circle:nth-child(2){
-    stroke-dashoffset: calc(440 - (440 * 86) / 100);
+    stroke-dashoffset: calc(440 - (440 * 68) / 100);
     stroke: tomato;
 }
 
